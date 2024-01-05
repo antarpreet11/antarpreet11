@@ -14,7 +14,7 @@
 <p align="center">
     <h1 align="center">✩&emsp;antarpreet11&emsp;✩</h1>
     <div align="center" text-align="center">
-      <a href="https://antarpreet.cloud">Portfolio website</a>
+      <a href="https://antarpreet.cloud" target="_blank">Portfolio website</a>
     </div>
 </p>
 <p align="center">
